@@ -2,12 +2,27 @@
 ![image](https://github.com/user-attachments/assets/2cc51e2d-1e99-4250-b1df-3e33e988ba09)
 
 ## resumen
+## Párrafos y saltos de línea
+Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.
+
+
+Por ejemplo si quisieses escribir un poema Haiku quedaría tal que así:
+
+«Andando con sus patitas mojadas,
+el gorrión
+por la terraza de madera»
+
+Donde cada verso tiene dos espacios en blanco al final.
+
+## Listas desordenadas
  ~~~
    Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
   ~~~
 - ¿qué es?
 - ¿para que sirve?
 - ¿porqué usar markdown?
+
+  ## Encabezado
  ~~~
   Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados. Debes usarlos añadiendo uno por cada nivel.
 ~~~
@@ -47,9 +62,13 @@ Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link e
 
 ![image](https://github.com/user-attachments/assets/d9d7ba40-4bdb-4243-8e77-c9b4d5365e80)
 
+## Código puro <code>
+
 La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas `. Esto se corresponde con la etiqueta HTML <code>
 
 ![image](https://github.com/user-attachments/assets/b28a7803-8bdf-4f15-9a5b-82d834c346df)
+
+## Imágenes
 
 Insertar una imagen con Markdown se realiza de una manera prácticamente idéntica a insertar links.
 
@@ -57,6 +76,8 @@ Solo que en este caso, deberás añadir un símbolo de ! exclamación al princip
 
 ![image](https://github.com/user-attachments/assets/93b4de87-52c7-4122-8d87-43d65d13c05c)
 
+ ## Links automáticos
+ 
 Cuando viste los tipos de links te comenté que había un tipo más: los automáticos.
 
 Estos son necesarios cuando lo que quieres es mostrar una URL completa, y no un enlace enmascarado bajo una palabra o frase como ocurre con los links en línea.
@@ -64,6 +85,8 @@ Estos son necesarios cuando lo que quieres es mostrar una URL completa, y no un 
 Para generar links automáticos tan solo tendrás que rodearlos con los símbolos < >
 
 ![image](https://github.com/user-attachments/assets/782baf01-a155-4bff-aa8c-e93f7ebf47fc)
+
+## Omitir Markdown
 
 Escribiéndola justo delante de cualquiera de los elementos que verás a continuación, los mismos no tendrán efecto a la hora de convertirse en negritas, cursivas, links…
 
