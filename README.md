@@ -17,11 +17,12 @@
 #### Encabezado 4
 ##### Encabezado 5
 ###### Encabezado 6
+## citas
 ~~~
   Las citas se generar utilizando el carácter mayor que > al comienzo del bloque de texto. Si la cita en cuestión se compone de varios párrafos, deberás añadir el mismo símbolo > al comienzo de cada uno de ellos.
 ~~~
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
-
+## Códigos de bloque
 ~~~
 Si quieres crear un bloque entero que contenga código. Lo único que tienes que hacer es encerrar dicho párrafo entre dos líneas formadas por tres ~ virgulillas.
 ~~~
@@ -29,16 +30,18 @@ Si quieres crear un bloque entero que contenga código. Lo único que tienes que
 Creando códigos de bloque.
 Puedes añadir tantas líneas y párrafos como quieras.  
 ~~~
+## Reglas horizontales
 ~~~
 Para crearlas, en una línea en blanco deberás incluir tres de los siguientes elementos: asteriscos, guiones, o guiones bajos.
 ~~~
+## Énfasis (negritas y cursivas)
 Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
 ***, ---, ___
 ~~~
 Simplemente tendrás que envolver palabras o textos en éstos símbolos para conseguir cursivas o negritas.
 ~~~
 ![image](https://github.com/user-attachments/assets/980ecb5b-5690-4d86-81b5-63acf456e470)
-
+## Enlace
 Añadir enlaces a una publicación, más que común, hoy en día es algo casi obligatorio. Con Markdown tendrás varias formas de hacerlo
 Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link en cuestión entre () paréntesis.
 
